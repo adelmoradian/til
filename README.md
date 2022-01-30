@@ -17,3 +17,15 @@ Hopping to avoide solving the same problem multiple times.
 - [terraform](#terraform)
 
 ---
+
+### git
+
+### jq
+
+### ruby
+
+### shell
+
+- [Create file with echo](shell/create_file_with_echo.md)
+
+### terraform
