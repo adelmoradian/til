@@ -27,5 +27,8 @@ Hopping to avoide solving the same problem multiple times.
 ### shell
 
 - [Create file with echo](shell/create_file_with_echo.md)
+- [heredoc](shell/heredoc.md)
+- [redirects](shell/redirects.md)
+- [descriptors](shell/descriptors.md)
 
 ### terraform
