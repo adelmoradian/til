@@ -25,6 +25,7 @@ Hopping to avoide solving the same problem multiple times.
 ### ruby
 
 - [Start program one liner](ruby/star_program_one_liner.md)
+- [Conditional value return](ruby/conditional_value_return.md)
 
 ### shell
 
