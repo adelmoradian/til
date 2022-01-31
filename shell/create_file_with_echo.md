@@ -24,4 +24,4 @@ cat file2
 # returns 
 # a
 # b
-```bash
+```
