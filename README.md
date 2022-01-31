@@ -30,5 +30,7 @@ Hopping to avoide solving the same problem multiple times.
 - [heredoc](shell/heredoc.md)
 - [redirects](shell/redirects.md)
 - [descriptors](shell/descriptors.md)
+- [Memory and CPU usage](shell/memory_and_cpu_usage.md)
+- [swap](shell/swap.md)
 
 ### terraform
