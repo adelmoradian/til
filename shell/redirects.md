@@ -23,6 +23,14 @@ Therefore the `command_does_not_exist 2> /dev/null` command basically sends the 
 Another commonly seen redirection operator is 2>&1. By default standard output and standard error are redirected to the terminal.
 What `2>&1` does is that it tells the shell to send the output on standard error (2) to whatever endpoint standard output is pointed to at that point in the command (&1).
 
+The difference between pipe and redirect is:
+
+- A pipe passes ‘standard output’ as the ‘standard input’ to another command
+- A redirect sends output from a file descriptor to a file. Remember that there can be 3 file descriptors (stdout, stderr, stdin)
+
+The `<` operator redirects standard input (file descriptor 0) _from_ a file _to_ the command.
+Therefore `grep -c file < file1` is equivalent to `cat file1 | grep -c file`
+
 ## Examples
 
 ```bash
