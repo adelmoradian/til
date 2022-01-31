@@ -20,8 +20,6 @@ Hopping to avoide solving the same problem multiple times.
 
 ### git
 
-### jq
-
 ### ruby
 
 - [Start program one liner](ruby/star_program_one_liner.md)
