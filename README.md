@@ -11,6 +11,7 @@ Hopping to avoide solving the same problem multiple times.
 ## Categories
 
 - [git](#git)
+- [kubernetes](#kubernetes)
 - [ruby](#ruby)
 - [shell](#shell)
 - [terraform](#terraform)
@@ -19,6 +20,10 @@ Hopping to avoide solving the same problem multiple times.
 ---
 
 ### git
+
+### kubernetes
+
+- [initContainers](kubernetes/init_container.md)
 
 ### ruby
 
