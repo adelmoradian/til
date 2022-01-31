@@ -24,6 +24,8 @@ Hopping to avoide solving the same problem multiple times.
 
 ### ruby
 
+- [Start program one liner](ruby/star_program_one_liner.md)
+
 ### shell
 
 - [Create file with echo](shell/create_file_with_echo.md)
