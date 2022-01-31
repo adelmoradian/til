@@ -32,5 +32,6 @@ Hopping to avoide solving the same problem multiple times.
 - [descriptors](shell/descriptors.md)
 - [Memory and CPU usage](shell/memory_and_cpu_usage.md)
 - [swap](shell/swap.md)
+- [SSH tunnel](shell/ssh_tunnel.md)
 
 ### terraform
