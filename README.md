@@ -24,6 +24,8 @@ Hopping to avoide solving the same problem multiple times.
 ### kubernetes
 
 - [initContainers](kubernetes/init_container.md)
+- [Timeout](ruby/timeout.md)
+- [Begin, rescue, ensure](ruby/begin_rescue_ensure.md)
 
 ### ruby
 
@@ -43,6 +45,9 @@ Hopping to avoide solving the same problem multiple times.
 - [Everything jq](shell/everything_jq.md)
 - [Convert JSON to YAML](shell/convert_json_to_yaml.md)
 - [Find broken helm releases](shell/find_broken_helm_releases.md)
+- [AWS CLI query filter](shell/aws_cli_query_filter.md)
+- [Loop over AWS CLI output](shell/loop_over_aws_cli_output.md)
+- [Select first line of file](shell/select_first_line_of_file.md)
 
 ### terraform
 

@@ -62,6 +62,11 @@ jq '.names |= .+ [
    "Natalie"
 ]'  
 
+# This snippet for when you want to sort and order and select top or last...
+# for example when wanting to get the latest snapshot
+aws rds describe-db-snapshots --db-instance-identifier foo --snapshot-type automated --region ap-southeast-2 --page-size 20 | \
+  jq '.DBSnapshots |= sort_by(.SnapshotCreateTime) | .DBSnapshots[-1].DBSnapshotIdentifier'
+
 # When you want to iterate over an array, and the array you access is empty you get something like
 jq: error (at <stdin>:3): Cannot iterate over null (null)
 # To workaround the optional array protect the access with
