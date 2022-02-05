@@ -43,6 +43,7 @@ Hopping to avoide solving the same problem multiple times.
 - [Everything jq](shell/everything_jq.md)
 - [Convert JSON to YAML](shell/convert_json_to_yaml.md)
 - [Find broken helm releases](shell/find_broken_helm_releases.md)
+- [Install nerdfont on ubuntu](shell/install_nerdfont_on_ubuntu.md)
 
 ### terraform
 
