@@ -4,7 +4,7 @@
 > heavily "inspired" by [josh branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)
 
 This is a place where I keep little things that I may forget one day...
-Hopping to avoide solving the same problem multiple times.
+Hopping to avoid solving the same problem multiple times.
 
 ---
 
@@ -31,6 +31,7 @@ Hopping to avoide solving the same problem multiple times.
 
 - [Start program one liner](ruby/star_program_one_liner.md)
 - [Conditional value return](ruby/conditional_value_return.md)
+- [Subprocess](ruby/subprocesses.md)
 
 ### shell
 
@@ -48,6 +49,9 @@ Hopping to avoide solving the same problem multiple times.
 - [AWS CLI query filter](shell/aws_cli_query_filter.md)
 - [Loop over AWS CLI output](shell/loop_over_aws_cli_output.md)
 - [Select first line of file](shell/select_first_line_of_file.md)
+- [Install nerdfont on ubuntu](shell/install_nerdfont_on_ubuntu.md)
+- [Stat command](shell/stat_command.md)
+- [Check process listening on port x](shell/check_process_listening_on_port_x.md)
 
 ### terraform
 
