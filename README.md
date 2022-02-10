@@ -32,6 +32,7 @@ Hopping to avoid solving the same problem multiple times.
 - [Start program one liner](ruby/star_program_one_liner.md)
 - [Conditional value return](ruby/conditional_value_return.md)
 - [Subprocess](ruby/subprocesses.md)
+- [yield](ruby/yield.md)
 
 ### shell
 
