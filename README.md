@@ -33,6 +33,7 @@ Hopping to avoid solving the same problem multiple times.
 - [Conditional value return](ruby/conditional_value_return.md)
 - [Subprocess](ruby/subprocesses.md)
 - [yield](ruby/yield.md)
+- [Move blocking call to new thread](ruby/move_blocking_call_to_different_thread.md)
 
 ### shell
 
