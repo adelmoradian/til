@@ -27,6 +27,8 @@ Hopping to avoid solving the same problem multiple times.
 - [initContainers](kubernetes/init_container.md)
 - [Apply manifest from stdin](kubernetes/apply_manifest_from_stdin.md)
 - [Get certificate from cluster](kubernetes/get_certificate_from_cluster.md)
+- [ResourceQuota](kubernetes/ResourceQuota.md)
+- [Managing namespace](kubernetes/managing_namespace.md)
 
 ### ruby
 
