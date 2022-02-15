@@ -24,12 +24,13 @@ Hopping to avoid solving the same problem multiple times.
 ### kubernetes
 
 - [initContainers](kubernetes/init_container.md)
-- [Timeout](ruby/timeout.md)
-- [Begin, rescue, ensure](ruby/begin_rescue_ensure.md)
+- [Apply manifest from stdin](kubernetes/apply_manifest_from_stdin.md)
 
 ### ruby
 
 - [Start program one liner](ruby/star_program_one_liner.md)
+- [Timeout](ruby/timeout.md)
+- [Begin, rescue, ensure](ruby/begin_rescue_ensure.md)
 - [Conditional value return](ruby/conditional_value_return.md)
 - [Subprocess](ruby/subprocesses.md)
 - [yield](ruby/yield.md)
