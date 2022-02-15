@@ -16,6 +16,7 @@ Hopping to avoid solving the same problem multiple times.
 - [shell](#shell)
 - [terraform](#terraform)
 - [yaml](#yaml)
+- [security](#security)
 
 ---
 
@@ -69,3 +70,8 @@ Hopping to avoid solving the same problem multiple times.
 - [YAML scalars, arrays and hashes](yaml/yaml_scalars_arrays_hashes.md)
 - [YAML heredoc](yaml/yaml_heredoc.md)
 - [Content References](yaml/content_references.md)
+
+### security
+
+- [CSR file](security/csr_file.md)
+- [PEM file](security/pem_file.md)
