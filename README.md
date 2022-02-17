@@ -63,6 +63,7 @@ Hopping to avoid solving the same problem multiple times.
 - [Check process listening on port x](shell/check_process_listening_on_port_x.md)
 - [Install nerdfont on ubuntu](shell/install_nerdfont_on_ubuntu.md)
 - [Stat command](shell/stat_command.md)
+- [Default editor](shell/default_editor.md)
 
 ### terraform
 
