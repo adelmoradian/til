@@ -64,6 +64,7 @@ Hopping to avoid solving the same problem multiple times.
 - [Install nerdfont on ubuntu](shell/install_nerdfont_on_ubuntu.md)
 - [Stat command](shell/stat_command.md)
 - [Default editor](shell/default_editor.md)
+- [Running script on login](shell/running_script_on_login.md)
 
 ### terraform
 
