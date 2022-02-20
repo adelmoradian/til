@@ -65,6 +65,8 @@ Hopping to avoid solving the same problem multiple times.
 - [Stat command](shell/stat_command.md)
 - [Default editor](shell/default_editor.md)
 - [Running script on login](shell/running_script_on_login.md)
+- [Load functions, variables and config](shell/load_functions_vars_config.md)
+- [Check if a package is installed as a condition](shell/check_if_package_installed.md)
 
 ### terraform
 
