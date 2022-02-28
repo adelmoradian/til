@@ -72,6 +72,8 @@ Hopping to avoid solving the same problem multiple times.
 
 - [Terraform heredoc](terraform/terraform_heredoc.md)
 - [Terraform for_each](terraform/for_each.md)
+- [List ASG ARN of EKS nodegroups](terraform/list_asg_arn_of_rks_nodegroups.md)
+- [For loop and json docs](terraform/for_loop_and_json_docs.md)
 
 ### yaml
 
