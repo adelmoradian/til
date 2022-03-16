@@ -41,6 +41,7 @@ Hopping to avoid solving the same problem multiple times.
 - [Move blocking call to new thread](ruby/move_blocking_call_to_different_thread.md)
 - [read_nonblock](ruby/read_nonblock.md)
 - [Generate CSR and key](ruby/generate_csr_and_key.md)
+- [Exit program](ruby/exit_program.md)
 
 ### shell
 
