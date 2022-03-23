@@ -10,6 +10,7 @@ Hopping to avoid solving the same problem multiple times.
 
 ## Categories
 
+- [containers](#docker)
 - [git](#git)
 - [kubernetes](#kubernetes)
 - [ruby](#ruby)
@@ -19,6 +20,10 @@ Hopping to avoid solving the same problem multiple times.
 - [security](#security)
 
 ---
+
+### containers
+- [ARGS vs ENV](containers/args_vs_envs.md)
+- [Podman M1 X86 issue](containers/podman_x86_issue.md)
 
 ### git
 
