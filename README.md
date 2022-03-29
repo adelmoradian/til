@@ -34,6 +34,7 @@ Hopping to avoid solving the same problem multiple times.
 - [Get certificate from cluster](kubernetes/get_certificate_from_cluster.md)
 - [ResourceQuota](kubernetes/ResourceQuota.md)
 - [Managing namespace](kubernetes/managing_namespace.md)
+- [Load balancer service pending](kubernetes/load_balancer_service_pending.md)
 
 ### ruby
 
