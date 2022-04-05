@@ -24,6 +24,7 @@ Hopping to avoid solving the same problem multiple times.
 ### containers
 - [ARGS vs ENV](containers/args_vs_envs.md)
 - [Podman M1 X86 issue](containers/podman_x86_issue.md)
+- [List stopped containers]()
 
 ### git
 
@@ -35,6 +36,7 @@ Hopping to avoid solving the same problem multiple times.
 - [ResourceQuota](kubernetes/ResourceQuota.md)
 - [Managing namespace](kubernetes/managing_namespace.md)
 - [Load balancer service pending](kubernetes/load_balancer_service_pending.md)
+- [Delete completed pods](kubernetes/delete_completed_pods.md)
 
 ### ruby
 
@@ -74,6 +76,9 @@ Hopping to avoid solving the same problem multiple times.
 - [Running script on login](shell/running_script_on_login.md)
 - [Load functions, variables and config](shell/load_functions_vars_config.md)
 - [Check if a package is installed as a condition](shell/check_if_package_installed.md)
+- [`sh` shell array or string iteration](shell/sh_shell_array_or_string_iteration.md)
+- [Config file location](shell/config_file_location.md)
+- [Alpine virtual packages](shell/alpine_virtual_packages.md)
 
 ### terraform
 
