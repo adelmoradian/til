@@ -27,6 +27,7 @@ Hopping to avoid solving the same problem multiple times.
 - [List stopped containers]()
 
 ### git
+- [restore](git/restore.md)
 
 ### kubernetes
 
@@ -37,6 +38,7 @@ Hopping to avoid solving the same problem multiple times.
 - [Managing namespace](kubernetes/managing_namespace.md)
 - [Load balancer service pending](kubernetes/load_balancer_service_pending.md)
 - [Delete completed pods](kubernetes/delete_completed_pods.md)
+- [MYSQL pod fails with --initialize specified but the data directory has files in it](kubernetes/mysql_pod_failing.md)
 
 ### ruby
 
